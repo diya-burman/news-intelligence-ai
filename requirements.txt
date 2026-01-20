@@ -1,0 +1,15 @@
+streamlit
+
+pandas
+
+plotly
+
+newspaper3k
+
+openai
+
+python-dotenv
+
+azure-identity
+
+azure-keyvault-secrets
